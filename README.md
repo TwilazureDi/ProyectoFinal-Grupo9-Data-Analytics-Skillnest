@@ -3,18 +3,18 @@
 Proyecto Final realizado en grupo del programa de Data Analytics de Skillnest enfocado en la organizacion, limpieza, analisis comercial y visualizacion de una base de datos utilizando las herramientas mostradas en el programa de Skillnest para el analisis de una base de datos de una empresa ficticia. 
 
 ## Tabla de Contenido
-- Proyecto Final Data Analytics Grupo 9
-  - Contexto
-  - Objetivo
-  - Herramientas
-  - Estructura del Repositorio
-    - 01_Datos
-    - 02_Scripts_Y_Procesamiento
-    - 03_Visualizacion_y_BI
-    - 04_Estrategia_y_Reportes
-  - Link Adicional
-  - Integrantes
-  - Agradecimientos
+- [Proyecto Final Data Analytics Grupo 9](#proyecto-final-data-analytics-grupo-9)
+  - [Contexto](#contexto)
+  - [Objetivo](#objetivo)
+  - [Herramientas](#herramientas)
+  - [Estructura del Repositorio](#estructura-del-repositorio)
+    - [01_Datos](#01_datos)
+    - [02_Scripts_Y_Procesamiento](#02_scripts_y_procesamiento)
+    - [03_Visualizacion_y_BI](#03_visualizacion_y_bi)
+    - [04_Estrategia_y_Reportes](#04_estrategia_y_reportes)
+  - [Link Adicional](#link-adicional)
+  - [Integrantes](#integrantes)
+  - [Agradecimientos](#agradecimientos)
 
 ## Contexto
 Supertienda es una empresa dedicada a la venta y distribución de productos. La cual se ha visto en un silencioso descenso pese a su éxito al comienzo de sus operaciones. 
