@@ -70,4 +70,4 @@ En esta carpeta se encuentra el pdf del PowerPoint realizado para la presentacio
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/mariangel-faro/)
 
 ## Agradecimientos 
-Gracias a [Forge Fundation](https://fforge.org/) y [Skillnest](https://www.skillnest.com/) por darnos la oportunidad de formar parte de este programa. 
+Gracias a [Forge Fundation](https://fforge.org/) y [Skillnest](https://www.skillnest.com/) por darnos la oportunidad de formar parte de este programa, asi como tambien a Adan Yañez por haber sido un gran profesor que nos guio y permitio hacer posible este proyecto. 
