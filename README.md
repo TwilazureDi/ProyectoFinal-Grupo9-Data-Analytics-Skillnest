@@ -25,7 +25,7 @@ Nuestro objetivo como analistas es identificar y proponer soluciones ante los pr
 ![PowBI](https://img.shields.io/badge/Power_BI-red?color=%23F17925)
 
 ## Link Adicional
-[Google Drive] 
+[![Drive](https://img.shields.io/badge/Google_Drive-red?logo=googledrive&logoColor=white&color=%234285F4)](https://drive.google.com/drive/u/2/folders/18E6imhNVOdQvbPAQjgd1G-eO1wi7SUDy)
 
 ## **Integrantes**
 - Nahuel Ezequiel Gomez
